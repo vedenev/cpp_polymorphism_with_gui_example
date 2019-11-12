@@ -15,7 +15,7 @@ for (int view_count = 0; view_count < N_VIEWS; view_count++)
 		views_all[view_count]->check_mouse(image, x, y, event);
 	}
 ```
-Function pointers was used for callbacks.  
+Function pointers were used for callbacks.  
 OpenCV was used for graphics.  
 It was made in visual studio comunity 2019.  
 I had opencv compiled before. I added msvcp120d.dll, msvcr120d.dll, msvcp120.dll, msvcr120.dll files.  
