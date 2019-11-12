@@ -1,7 +1,7 @@
 # cpp_polymorphism_with_gui_example
 C++ polymorphism with GUI example
 ![shcreenshot image](/pictures/screenshot1.png)  
-  
+[Video on youtube, how the GUI works](https://www.youtube.com/watch?v=rT4yF9uXxYo)  
 It is example of polymorphism in C++ with GUI. See polymorph_learning_try3.cpp.  
 It has interface view.h that is common interface for gui widget objects button and checkbox.  
 check_mouse function is fully virtual. Also it has virtual distructor.  
